@@ -1,0 +1,125 @@
+{
+    "Basic Information": {
+        "Personal Details": {
+            "What is your name and age?": "asdjhfhads",
+            "What is your gender identity?": "m",
+            "What is your cultural background?": "m",
+            "Where do you currently live?": "m",
+            "What is your current living situation (alone, with family, roommates, etc.)?": "m",
+            "What is your current employment status and occupation?": "m"
+        },
+        "Family Background": {
+            "Tell me about your immediate family structure.": "m",
+            "What is your relationship like with your family members?": "m",
+            "Are there any significant family dynamics or challenges?": "m",
+            "Do you have any children or dependents?": "m",
+            "What is your relationship like with your children?": "m"
+        }
+    },
+    "Physical Health": {
+        "Current Health Status": {
+            "How would you rate your overall physical health (1-10)?": "m",
+            "Do you have any chronic health conditions?": "m",
+            "Are you currently taking any medications?": "m",
+            "How would you describe your sleep patterns?": "m",
+            "What is your typical daily energy level?": "m",
+            "Do you experience any physical pain or discomfort regularly?": "m"
+        },
+        "Lifestyle": {
+            "How often do you exercise? What types of activities?": "m",
+            "How would you describe your eating habits?": "m",
+            "Do you have any dietary restrictions or preferences?": "m",
+            "How much water do you typically drink daily?": "m",
+            "Do you use any substances (alcohol, tobacco, etc.)?": "m",
+            "How many hours of sleep do you typically get?": "m"
+        },
+        "Medical History": {
+            "Have you had any major surgeries or hospitalizations?": "m",
+            "Are there any hereditary health conditions in your family?": "m",
+            "When was your last physical examination?": "m",
+            "Do you have any allergies or sensitivities?": "m"
+        }
+    },
+    "Mental Health": {
+        "Emotional Well-being": {
+            "How would you rate your overall mental health (1-10)?": "m",
+            "How often do you experience stress or anxiety?": "m",
+            "Do you experience any symptoms of depression?": "m",
+            "How do you typically cope with difficult emotions?": "m",
+            "What brings you joy and fulfillment?": "m",
+            "How would you describe your self-esteem?": "m"
+        },
+        "Mental Health History": {
+            "Have you ever been diagnosed with any mental health conditions?": "m",
+            "Have you ever received mental health treatment or counseling?": "m",
+            "Are there any mental health conditions in your family history?": "m",
+            "Have you experienced any traumatic events in your life?": "m"
+        },
+        "Daily Life Impact": {
+            "How does your mental health affect your daily activities?": "m",
+            "What are your main sources of stress?": "m",
+            "How do you typically handle challenging situations?": "m",
+            "What coping mechanisms do you use?": "m"
+        }
+    },
+    "Social Life": {
+        "Relationships": {
+            "How would you describe your social life?": "m",
+            "Do you have a strong support system?": "m",
+            "What types of relationships are most important to you?": "m",
+            "How do you maintain your relationships?": "m",
+            "Do you feel lonely often?": "m"
+        },
+        "Social Activities": {
+            "What social activities do you enjoy?": "m",
+            "How often do you engage in social activities?": "m",
+            "Do you have any hobbies or interests you share with others?": "m",
+            "How do you feel about your current social connections?": "m"
+        }
+    },
+    "Personal Development": {
+        "Goals and Aspirations": {
+            "What are your short-term goals (next 3-6 months)?": "m",
+            "What are your long-term goals (1-5 years)?": "m",
+            "What areas of your life would you like to improve?": "m",
+            "What are your biggest challenges right now?": "m",
+            "What are your greatest strengths?": "m"
+        },
+        "Personal Growth": {
+            "How do you typically learn and grow?": "m",
+            "What motivates you?": "m",
+            "What are your core values?": "m",
+            "How do you measure success in your life?": "m",
+            "What would you like to achieve in terms of personal development?": "m"
+        }
+    },
+    "Daily Life": {
+        "Routine": {
+            "Describe your typical daily routine.": "m",
+            "How do you manage your time?": "m",
+            "What are your main responsibilities?": "m",
+            "How do you balance work and personal life?": "m",
+            "What activities do you find most fulfilling?": "m"
+        },
+        "Environment": {
+            "How would you describe your living environment?": "m",
+            "What aspects of your environment affect your well-being?": "m",
+            "Do you feel safe and comfortable in your surroundings?": "m",
+            "What changes would you like to make to your environment?": "m"
+        }
+    },
+    "Support Needs": {
+        "Current Support": {
+            "What kind of support do you currently have?": "m",
+            "What type of support do you feel you need?": "m",
+            "Who do you turn to when you need help?": "m",
+            "What barriers do you face in getting support?": "m"
+        },
+        "Help-Seeking": {
+            "How comfortable are you asking for help?": "m",
+            "What prevents you from seeking help when needed?": "m",
+            "What would make it easier for you to seek support?": "m",
+            "What type of professional help have you considered?": "m"
+        }
+    }
+}

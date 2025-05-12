@@ -1,0 +1,20 @@
+{
+    "Basic Information": {
+        "Personal Details": {
+            "What is your name and age?": "n",
+            "What is your gender identity?": "n",
+            "What is your cultural background?": "n",
+            "Where do you currently live?": "n",
+            "What is your current living situation?": "n",
+            "What is your current employment status and occupation?": "n"
+        }
+    },
+    "Physical Health": {
+        "Current Health Status": {
+            "How would you rate your overall physical health (1-10)?": "n",
+            "Do you have any chronic health conditions?": "n",
+            "Are you currently taking any medications?": "n",
+            "How would you describe your sleep patterns?": "n"
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "Basic Information": {
+        "Personal Details": {
+            "What is your name and age?": "Alex Thompson, 16",
+            "What is your gender identity?": "Male",
+            "What is your cultural background?": "Canadian, mixed European heritage",
+            "Where do you currently live?": "Vancouver, British Columbia",
+            "What is your current living situation (alone, with family, roommates, etc.)?": "Living with both parents and younger sister",
+            "What is your current employment status and occupation?": "Part-time job at a local grocery store, student"
+        },
+        "Family Background": {
+            "Tell me about your immediate family structure.": "Nuclear family with mom, dad, and 13-year-old sister",
+            "What is your relationship like with your family members?": "Good relationship with parents, sometimes argue with sister but generally get along",
+            "Are there any significant family dynamics or challenges?": "Parents sometimes work long hours, but we make time for family dinners",
+            "Do you have any children or dependents?": "No",
+            "What is your relationship like with your children?": "N/A"
+        }
+    },
+    "Physical Health": {
+        "Current Health Status": {
+            "How would you rate your overall physical health (1-10)?": "8",
+            "Do you have any chronic health conditions?": "No major conditions, occasional seasonal allergies",
+            "Are you currently taking any medications?": "No regular medications",
+            "How would you describe your sleep patterns?": "Usually get 7-8 hours, sometimes stay up late gaming",
+            "What is your typical daily energy level?": "High energy in the morning, sometimes tired after school",
+            "Do you experience any physical pain or discomfort regularly?": "Occasional back pain from sitting at desk too long"
+        },
+        "Lifestyle": {
+            "How often do you exercise? What types of activities?": "School basketball team 3 times a week, occasional gym sessions",
+            "How would you describe your eating habits?": "Regular meals, sometimes skip breakfast, eat lots of snacks",
+            "Do you have any dietary restrictions or preferences?": "No restrictions, trying to eat more protein for sports",
+            "How much water do you typically drink daily?": "About 2-3 liters",
+            "Do you use any substances (alcohol, tobacco, etc.)?": "No",
+            "How many hours of sleep do you typically get?": "7-8 hours on school nights, 9-10 on weekends"
+        },
+        "Medical History": {
+            "Have you had any major surgeries or hospitalizations?": "No major surgeries, only minor sports injuries",
+            "Are there any hereditary health conditions in your family?": "Grandfather has type 2 diabetes",
+            "When was your last physical examination?": "Annual check-up 3 months ago",
+            "Do you have any allergies or sensitivities?": "Seasonal allergies to pollen"
+        }
+    },
+    "Mental Health": {
+        "Emotional Well-being": {
+            "How would you rate your overall mental health (1-10)?": "7",
+            "How often do you experience stress or anxiety?": "Sometimes stressed about school and sports",
+            "Do you experience any symptoms of depression?": "Occasional mood swings, but nothing severe",
+            "How do you typically cope with difficult emotions?": "Talk to friends, play video games, exercise",
+            "What brings you joy and fulfillment?": "Basketball, hanging out with friends, gaming",
+            "How would you describe your self-esteem?": "Generally confident, sometimes insecure about grades"
+        },
+        "Mental Health History": {
+            "Have you ever been diagnosed with any mental health conditions?": "No",
+            "Have you ever received mental health treatment or counseling?": "No",
+            "Are there any mental health conditions in your family history?": "Not that I know of",
+            "Have you experienced any traumatic events in your life?": "No major traumatic events"
+        },
+        "Daily Life Impact": {
+            "How does your mental health affect your daily activities?": "Sometimes affects focus in school",
+            "What are your main sources of stress?": "School work, sports performance, social media",
+            "How do you typically handle challenging situations?": "Try to stay calm, talk to parents or friends",
+            "What coping mechanisms do you use?": "Exercise, music, gaming, talking to friends"
+        }
+    },
+    "Social Life": {
+        "Relationships": {
+            "How would you describe your social life?": "Active, have a close group of friends",
+            "Do you have a strong support system?": "Yes, good friends and supportive family",
+            "What types of relationships are most important to you?": "Friendships and family relationships",
+            "How do you maintain your relationships?": "Regular hangouts, group chats, playing sports together",
+            "Do you feel lonely often?": "Rarely, usually surrounded by friends at school"
+        },
+        "Social Activities": {
+            "What social activities do you enjoy?": "Basketball, gaming, going to movies, hanging out at the mall",
+            "How often do you engage in social activities?": "Almost daily, either at school or after school",
+            "Do you have any hobbies or interests you share with others?": "Basketball, gaming, music",
+            "How do you feel about your current social connections?": "Happy with my friend group, always open to new friends"
+        }
+    },
+    "Personal Development": {
+        "Goals and Aspirations": {
+            "What are your short-term goals (next 3-6 months)?": "Improve basketball skills, get better grades in math",
+            "What are your long-term goals (1-5 years)?": "Get into university, maybe play college basketball",
+            "What areas of your life would you like to improve?": "Time management, study habits",
+            "What are your biggest challenges right now?": "Balancing school, sports, and social life",
+            "What are your greatest strengths?": "Good at sports, friendly, hardworking"
+        },
+        "Personal Growth": {
+            "How do you typically learn and grow?": "Through experience, trial and error, watching others",
+            "What motivates you?": "Wanting to succeed, making parents proud, personal improvement",
+            "What are your core values?": "Honesty, hard work, loyalty, respect",
+            "How do you measure success in your life?": "Personal improvement, achieving goals, making others happy",
+            "What would you like to achieve in terms of personal development?": "Better organization skills, more confidence in public speaking"
+        }
+    },
+    "Daily Life": {
+        "Routine": {
+            "Describe your typical daily routine.": "Wake up at 7, school 8:30-3:30, basketball practice or work 4-6, homework, free time",
+            "How do you manage your time?": "Using phone calendar, trying to be more organized",
+            "What are your main responsibilities?": "School work, part-time job, household chores",
+            "How do you balance work and personal life?": "Still learning, sometimes struggle with time management",
+            "What activities do you find most fulfilling?": "Basketball, hanging out with friends, gaming"
+        },
+        "Environment": {
+            "How would you describe your living environment?": "Comfortable suburban home, good neighborhood",
+            "What aspects of your environment affect your well-being?": "Having my own room helps with privacy and focus",
+            "Do you feel safe and comfortable in your surroundings?": "Yes, very safe neighborhood",
+            "What changes would you like to make to your environment?": "Maybe get a better desk setup for studying"
+        }
+    },
+    "Support Needs": {
+        "Current Support": {
+            "What kind of support do you currently have?": "Family, friends, teachers, coaches",
+            "What type of support do you feel you need?": "Sometimes need help with school work",
+            "Who do you turn to when you need help?": "Parents, teachers, friends",
+            "What barriers do you face in getting support?": "Sometimes too shy to ask for help"
+        },
+        "Help-Seeking": {
+            "How comfortable are you asking for help?": "Getting better at it, still sometimes hesitant",
+            "What prevents you from seeking help when needed?": "Wanting to be independent, fear of looking weak",
+            "What would make it easier for you to seek support?": "Knowing others also need help sometimes",
+            "What type of professional help have you considered?": "Maybe a tutor for math"
+        }
+    }
+} 
